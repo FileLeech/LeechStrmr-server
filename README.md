@@ -29,15 +29,15 @@ TODO:
  and many more...
 
 What's included.
-(*)SabzNZB
-(*)TorrentFlux
-(*)Ruttorrent
-(*)rTorrent
-(*)Movie Thumbailer
-(*)RAR/UNRAR
-(*)WebMin
-(*)Apache/NginX
-+ So many tiny little more things my brain couldn't re-call as of time of updating this README. :D
+ *SabzNZB
+ *TorrentFlux
+ *Ruttorrent
+ *rTorrent
+ *Movie Thumbailer
+ *RAR/UNRAR
+ *WebMin
+ *Apache/NginX
+   + So many tiny little more things my brain couldn't re-call as of time of updating this README. :D
 NOTE: Main code has not been uploaded yet. still needs more work, works well on tests but developments continues.
 
-What it is? "Ultimate Entertainment Addon"
+What it is? "Ultimate Entertainment Server-Module"
